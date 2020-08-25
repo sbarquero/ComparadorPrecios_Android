@@ -6,7 +6,7 @@ Aplicación **Android** que interactuar con la **Web API ComparadorPrecios**.
 
 El proyecto desarrollado pretende ser sobre todo una prueba de concepto de un sistema que consiste en lo siguiente:
 
-- Un servicio web **API RESTful** en un servidor que responde a peticiones de clientes y que almacena sus datos en una base de datos PostgreSQL [(Enlace GitHub)](https://https://github.com/sbarquero/ComparadorPrecios_WebAPI).
+- Un servicio web **API RESTful** en un servidor que responde a peticiones de clientes y que almacena sus datos en una base de datos PostgreSQL [(Enlace GitHub)](https://github.com/sbarquero/ComparadorPrecios_WebAPI).
 - Una **aplicación cliente multiplataforma** desarrollada en **Java** y que consume los servicios proporcionados por la web API [(Enlace GitHub)](https://github.com/sbarquero/ComparadorPrecios_Java).
 -  Una **aplicación cliente para Android** que consume los servicios de la web API (Este proyecto). 
 
