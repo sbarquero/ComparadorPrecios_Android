@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical"
+    android:paddingLeft="48sp"
+    android:paddingTop="64sp"
+    android:paddingRight="48sp"
+    tools:context=".MenuActivity">
+
+    <Button
+        android:id="@+id/btnArticulos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickArticulos"
+        android:paddingTop="18sp"
+        android:paddingBottom="18sp"
+        android:text="@string/articulos"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+    <Button
+        android:id="@+id/btnTiendas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32sp"
+        android:onClick="onClickTiendas"
+        android:paddingTop="18sp"
+        android:paddingBottom="18sp"
+        android:text="@string/tiendas"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+    <Button
+        android:id="@+id/btnConfiguracion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="64sp"
+        android:onClick="onClickConfiguracion"
+        android:paddingTop="18sp"
+        android:paddingBottom="18sp"
+        android:text="@string/configuracion"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+</LinearLayout>

@@ -1,0 +1,2 @@
+rootProject.name='Comparador Precios'
+include ':app'

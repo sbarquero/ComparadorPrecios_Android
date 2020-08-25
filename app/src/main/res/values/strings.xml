@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Comparador Precios</string>
+
+    <!-- GENERALES -->
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="salir">Salir</string>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="introduzca_usuario">Introduzca usuario</string>
+    <string name="introduzca_contrasenia">Introduzca contraseña</string>
+    <string name="recordar_contrasenia">Recordar contraseña</string>
+    <string name="acceder">Acceder</string>
+    <string name="creditos">Créditos</string>
+    <string name="imagen_fondo">Imagen de fondo</string>
+    <string name="contiene_usuario">Contiene Usuario</string>
+    <string name="contiene_contrasenia">Contiene contraseña</string>
+    <string name="mensaje_creditos">Imagen de Fondo creada por \"xb100\" www.freepik.es</string>
+
+    <!-- MENU ACTIVITY -->
+    <string name="articulos">Artículos</string>
+    <string name="tiendas">Tiendas</string>
+    <string name="configuracion">Configuración</string>
+    <string name="Salir">Salir</string>
+
+    <!-- LISTADO ARTICULOS y TIENDAS ACTIVITY -->
+    <string name="introduzca_busqueda">Introduzca búsqueda</string>
+    <string name="articulos_no_encontrados">Artículos no encontrados</string>
+    <string name="error_recuperar_articulos">Error al recuperar listado de artículos</string>
+
+    <!-- ARTICULO ACTIVITY -->
+    <string name="articulo_id">Artículo Id:</string>
+    <string name="descripcion">Descripción</string>
+    <string name="codigo_barras">Código barras</string>
+    <string name="introduzca_id">Introduzca un Id a buscar</string>
+    <string name="introduzca_ean">Introduzca un EAN a buscar</string>
+    <string name="error_recuperar_articulo">Error al recuperar artículo por ID.</string>
+    <string name="articulo_guardado">Artículo guardado</string>
+    <string name="error_guardar_articulo">Error al guardar artículo</string>
+    <string name="articulo_borrado">Artículo borrado</string>
+    <string name="error_borrar_articulo">Error al borrar artículo</string>
+    <string name="desea_eliminar_articulo">¿Desea eliminar el artículo?</string>
+    <string name="descripcion_articulo_vacia">Descripción del artículo no puede estar vacía</string>
+    <string name="guarde_articulo_antes">Guarde el artículo antes de añadir un precio</string>
+
+    <!-- TABLEPRECIOS -->
+    <string name="id_precio">Id</string>
+    <string name="nombre_tienda">Nombre tienda</string>
+    <string name="precio">Precio</string>
+    <string name="fecha_precio">Fecha precio</string>
+
+    <!-- TIENDA ACTIVITY -->
+    <string name="tienda_id">Tienda Id:</string>
+    <string name="fecha">Fecha:</string>
+    <string name="nombre">Nombre</string>
+    <string name="latitud">Latitud</string>
+    <string name="latitud_error">Latitud debe estar entre -90 y 90</string>
+    <string name="longitud_error">Longitud debe estar entre -180 y 180</string>
+    <string name="error_recuperar_tienda">Error al recuperar tienda por ID.</string>
+    <string name="tienda_guardada">Tienda guardada</string>
+    <string name="error_guardar_tienda">Error al guardar tienda</string>
+    <string name="tienda_borrada">Tienda borrada</string>
+    <string name="error_borrar_tienda">Error al borrar tienda</string>
+    <string name="desea_eliminar_tienda">¿Desea eliminar la tienda?</string>
+    <string name="nombre_tienda_vacio">Nombre de tienda no puede estar vacío</string>
+
+    <!-- CONFIGURACION ACTIVITY -->
+    <string name="direccion_url_base">Dirección URL base web API</string>
+    <string name="introduzca_url">Introduzca dirección URL de la Web API</string>
+    <string name="ejemplos">Ejemplos:</string>
+    <string name="url_vacia">Dirección URL no puede estar vacía</string>
+
+    <!-- PRECIO ACTIVITY -->
+    <string name="precio_id">Precio Id:</string>
+    <string name="introduzca_precio">Introduzca precio</string>
+    <string name="tienda">Tienda:</string>
+    <string name="seleccione_tienda">Seleccione tienda</string>
+    <string name="seleccione_tienda_lista">Seleccione tienda de la lista</string>
+    <string name="error_recuperar_precio">Error al recuperar precio por ID.</string>
+    <string name="precio_guardado">Precio guardado</string>
+    <string name="error_guardar_precio">Error al guardar precio</string>
+    <string name="precio_borrado">Precio borrado</string>
+    <string name="error_borrar_precio">Error al borrar precio</string>
+    <string name="desea_eliminar_precio">¿Desea eliminar el precio?</string>
+    <string name="tienda_no_seleccionada">Tienda no seleccionada</string>
+    <string name="precio_no_valido">Precio no válido</string>
+    <string name="longitud">Longitud</string>
+
+</resources>
