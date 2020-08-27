@@ -1,6 +1,6 @@
 # ComparadorPrecios_Android
 
-Aplicación **Android** que interactuar con la **Web API ComparadorPrecios**.
+Aplicación cliente **Android** desarrollada en **Android Studio 3.6** para mi **Proyecto de Ciclo 2º DAM** que interactua con la **Web API ComparadorPrecios** [(Enlace GitHub)](https://github.com/sbarquero/ComparadorPrecios_WebAPI).
 
 ## Introducción
 
@@ -28,8 +28,14 @@ Se han empleado las siguientes herramientas y librerías:
 
 Abrir proyecto con el **Android Studio 3.6** y ejecutar o generar el ejecutable `.apk`
 
+![Captura Android Studio](images/android_studio.png)
+
 ## Capturas de pantalla
 
 ### Configuración
 
-![Listado artículos](images/listado_articulos.png) ![Artículos](images/articulo.png) ![Listado tiendas](images/listado_tiendas.png) ![Tienda](images/tienda.png) ![Precio](images/precio.png) ![Configuración](images/configuracion.png)
+![Listado artículos](images/listado_articulos.png) &nbsp; &nbsp; &nbsp; ![Artículos](images/articulo.png)
+
+![Listado tiendas](images/listado_tiendas.png) &nbsp; &nbsp; &nbsp; ![Tienda](images/tienda.png)
+ 
+![Precio](images/precio.png) &nbsp; &nbsp; &nbsp; ![Configuración](images/configuracion.png)
